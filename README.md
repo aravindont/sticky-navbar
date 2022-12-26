@@ -1,5 +1,7 @@
 # Sticky Navbar
 
+[Live-Link](https://aravindont.github.io/sticky-navbar/) of the project
+
 Here we will implement the sticky navbar i.e, when we scroll down after certain point also navbar will stick to the top.
 
 ## HTML
